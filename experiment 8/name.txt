@@ -1,0 +1,4 @@
+44444
+4/usr/local/bin/python3 "/Users/vansh/Documents/phython/experiments/experiment 8/e1b.py"
+4
+/usr/local/bin/python3 "/Users/vansh/Documents/phython/experiments/experiment 8/e1c.py"

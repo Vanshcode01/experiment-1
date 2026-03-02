@@ -1,0 +1,4 @@
+/usr/local/bin/python3 "/Users/vansh/Documents/phython/experiments/experiment 8/e2b.py"
+/usr/local/bin/python3 "/Users/vansh/Documents/phython/experiments/experiment 8/e2c.py"
+/usr/local/bin/python3 "/Users/vansh/Documents/phython/experiments/experiment 8/e2c.py"
+/usr/local/bin/python3 "/Users/vansh/Documents/phython/experiments/experiment 8/e3a.py"
